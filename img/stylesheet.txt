@@ -1,0 +1,125 @@
+.sprite {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-adress-icon {
+    width: 22px;
+    height: 26px;
+    background-position: -10px -10px;
+}
+
+.sprite-camera-icon {
+    width: 44px;
+    height: 34px;
+    background-position: -10px -56px;
+}
+
+.sprite-eye-icon {
+    width: 35px;
+    height: 23px;
+    background-position: -10px -110px;
+}
+
+.sprite-facebook {
+    width: 45px;
+    height: 45px;
+    background-position: -10px -153px;
+}
+
+.sprite-google {
+    width: 43px;
+    height: 44px;
+    background-position: -10px -218px;
+}
+
+.sprite-icon-TV {
+    width: 90px;
+    height: 90px;
+    background-position: -10px -282px;
+}
+
+.sprite-icon-laptop {
+    width: 137px;
+    height: 75px;
+    background-position: -10px -392px;
+}
+
+.sprite-icon-media {
+    width: 118px;
+    height: 118px;
+    background-position: -10px -487px;
+}
+
+.sprite-icon-mobile {
+    width: 79px;
+    height: 92px;
+    background-position: -10px -625px;
+}
+
+.sprite-icon-planing {
+    width: 70px;
+    height: 76px;
+    background-position: -10px -737px;
+}
+
+.sprite-icon-search-optim {
+    width: 118px;
+    height: 118px;
+    background-position: -10px -833px;
+}
+
+.sprite-icon-shop {
+    width: 118px;
+    height: 118px;
+    background-position: -10px -971px;
+}
+
+.sprite-icon-web-design {
+    width: 118px;
+    height: 118px;
+    background-position: -10px -1109px;
+}
+
+.sprite-linkedin {
+    width: 43px;
+    height: 44px;
+    background-position: -10px -1247px;
+}
+
+.sprite-mail-icon {
+    width: 34px;
+    height: 25px;
+    background-position: -10px -1311px;
+}
+
+.sprite-mobile-icon {
+    width: 33px;
+    height: 37px;
+    background-position: -10px -1356px;
+}
+
+.sprite-phone-icon {
+    width: 29px;
+    height: 35px;
+    background-position: -10px -1413px;
+}
+
+.sprite-twitter {
+    width: 43px;
+    height: 44px;
+    background-position: -10px -1468px;
+}
+
+.sprite-vimeo {
+    width: 43px;
+    height: 44px;
+    background-position: -10px -1532px;
+}
+
+.sprite-youtube {
+    width: 43px;
+    height: 44px;
+    background-position: -10px -1596px;
+}

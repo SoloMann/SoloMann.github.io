@@ -1,0 +1,1 @@
+var additionalList=document.querySelector(".additional-list"),menuButton=document.querySelector(".category-btn");menuButton.addEventListener("click",function(){additionalList.classList.contains("additional-list-show")?additionalList.classList.remove("additional-list-show"):additionalList.classList.add("additional-list-show")});

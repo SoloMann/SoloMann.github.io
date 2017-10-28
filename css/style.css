@@ -389,8 +389,7 @@
           box-shadow: 0 9px #2190c1, 0 18px #2190c1, -9px 0 #2190c1, -9px 9px #2190c1, -9px 18px #2190c1, -18px 0 #2190c1, -18px 9px #2190c1, -18px 18px #2190c1;
 }
 .additional-list {
-  position: absolute;
-  display: none;
+  position: absolute;  
   list-style: none;
   background-color: #f98561;
   width: 100%;
@@ -399,6 +398,9 @@
   top: 51px;
   left: 0;
   z-index: 10;
+}
+.additional-list-close {
+  display: none;
 }
 .additional-option {
   position: relative;
